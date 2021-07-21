@@ -9,3 +9,5 @@ function pb1() {
 function p2b1() {
   console.log("b1");
 }
+
+1234;
