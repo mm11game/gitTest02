@@ -4,3 +4,6 @@ function a1() {
 function a2() {
   console.log("a2");
 }
+function a3() {
+  console.log("a3");
+}
