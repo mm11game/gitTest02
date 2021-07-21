@@ -7,3 +7,6 @@ function a2() {
 function a3() {
   console.log("a3");
 }
+function a4() {
+  console.log("a4");
+}
